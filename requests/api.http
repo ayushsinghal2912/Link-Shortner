@@ -2,5 +2,6 @@ POST http://localhost:5000/api/url/shorten
 Content-Type: application/json
 
 {
-    "longUrl" : "https://www.amazon.in/gp/product/B09LJ1BF8Q/ref=s9_acss_bw_cg_Budget_5b1_w?pf_rd_m=A1K21FY43GMZF8&pf_rd_s=merchandised-search-7&pf_rd_r=75B5YXPQREG7ZSMFHFHQ&pf_rd_t=101&pf_rd_p=b3e32f8f-7d1a-462e-8f31-d050fc0ef7e0&pf_rd_i=1389401031"
+    "longUrl" : "https://www.amazon.in/Campus-OXYFIT-Walking-Shoes-India/dp/B09RPPR4S2/ref=lp_57459514031_1_1"
+
 }
